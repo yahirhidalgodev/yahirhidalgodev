@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Yahir Hidalgo Alvarez 👋
 
-<!--
-**yahirhidalgodev/yahirhidalgodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software
 
-Here are some ideas to get you started:
+🎓 Ingeniería en Sistemas Computacionales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Tlaxcala, México
+
+## Tecnologías
+
+- Java
+- Python
+- PHP
+- JavaScript
+- Flutter
+- Angular
+- MySQL
+
+## Actualmente
+
+- Desarrollando proyectos web y móviles
+- Construyendo mi portafolio profesional
+- Aprendiendo nuevas tecnologías
+
+## Contacto
+
+📧 yahir.hidalgo.dev@gmail.com
