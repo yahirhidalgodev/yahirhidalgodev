@@ -1,4 +1,4 @@
-# Hola, soy Yahir Hidalgo Alvarez 👋
+# Hola, soy Yahir Hidalgo Alvarez
 
 💻 Desarrollador de Software
 
@@ -16,7 +16,6 @@ Soy desarrollador de software con interés en el desarrollo web, aplicaciones m�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Desarrollo Web
 
